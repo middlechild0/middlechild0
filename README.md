@@ -1,4 +1,4 @@
-<!-- SEO Tags: Next.js Developer Kenya, AI Engineer Nairobi, Full Stack Developer, TypeScript, Agentic Workflows, AI Architect, Algorithmic Trading Developer, Quantitative Developer, CTO, Technical Co-Founder -->
+<!-- SEO Tags: Computer Scientist Kenya, Next.js Developer Kenya, AI Engineer Nairobi, Full Stack Developer, TypeScript, Agentic Workflows, AI Architect, Algorithmic Trading Developer, Quantitative Developer, CTO, Technical Co-Founder -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=250&section=header&text=Jimmy%20Mathu&fontSize=70&fontAlignY=35&desc=The%20Architect&descAlignY=55&descAlign=62&fontColor=ffffff" />
@@ -25,9 +25,11 @@
   <h3><a href="THE_JOURNEY.md">📖 Read The Evolution of The Architect</a></h3>
 </div>
 
-### 🧠 The AI Architect 
+### 🧠 The Computer Scientist & AI Architect 
 
-Hello! I'm Jimmy, a highly driven **Full Stack Developer & AI Engineer** specializing in Artificial Intelligence, Agentic Workflows, and high-frequency business systems. I don't just build apps; I architect intelligent, autonomous ecosystems that think and scale.
+Hello! I'm Jimmy, a **Computer Scientist, Full Stack Developer & AI Engineer** specializing in Artificial Intelligence, Agentic Workflows, and high-frequency business systems. 
+
+My foundation is deeply rooted in core Computer Science principles. Whether I am optimizing time complexity (Big-O) for high-frequency trading algorithms, designing distributed databases for enterprise SaaS, or orchestrating memory-efficient RAG pipelines, everything I build is mathematically scaled and engineered from the ground up.
 
 Currently, I am architecting **Sajim Inc / Stride** — Africa's AI Business Operating System.
 
@@ -59,7 +61,7 @@ Every system, product, and architecture is 100% my intellectual property—I act
   </a>
 </p>
 
-**Core Competencies:** Agentic Systems | Generative AI | Cloud Computing | The 5W1H Standard | Full Stack Architecture | Quantitative Engineering
+**Core Competencies:** Computer Science | Agentic Systems | Generative AI | Cloud Computing | The 5W1H Standard | Full Stack Architecture | Quantitative Engineering
 
 ---
 
