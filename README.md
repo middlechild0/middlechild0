@@ -19,6 +19,10 @@
 
 ---
 
+<div align="center">
+  <h3><a href="THE_JOURNEY.md">📖 Read The Evolution of The Architect</a></h3>
+</div>
+
 ### 🧠 The AI Architect 
 
 Hello! I'm Jimmy, a highly driven **Full Stack Developer & AI Engineer** specializing in Artificial Intelligence, Agentic Workflows, and high-frequency business systems. I don't just build apps; I architect intelligent, autonomous ecosystems that think and scale.
