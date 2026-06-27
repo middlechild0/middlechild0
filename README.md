@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Building+Africas+AI+Business+OS;Architecting+Agentic+Workflows;Clean.+Structured.+Frictionless." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=System+Architecture;Agentic+Workflows;Algorithmic+Execution;Clean.+Structured.+Frictionless." alt="Typing SVG" />
   </a>
 </h3>
 
@@ -16,51 +16,46 @@
   <a href="https://www.linkedin.com/in/jimmy-mathu-bb08103a8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<div align="center">
-  <a href="THE_JOURNEY.md">
-    <img src="https://img.shields.io/badge/📖_Read_The_Evolution_Of_The_Architect-E50914?style=for-the-badge&labelColor=1a1a1a&color=E50914" alt="Read The Journey" />
-  </a>
-</div>
+---
+
+### `/// SYS_INIT: THE ARCHITECT`
+```json
+{
+  "role": "Computer Scientist & Systems Architect",
+  "focus": ["Agentic AI", "High-Frequency Data", "Distributed Systems"],
+  "status": "Architecting Sajim Inc / Stride OS"
+}
+```
+
+### `/// THE PARADIGM SHIFT`
+**Manual coding is deprecated.** I operate strictly as the Architect. 
+I design the database schemas, optimize the Big-O time complexity, build the RAG pipelines, and architect the quantitative trading logic. I then deploy autonomous AI subagents to execute the raw codebase at scale. All IP, business logic, and system architecture are 100% mine.
+
+**Currently Deploying:**
+- `Stride OS` — Unified Enterprise OS (TypeScript, Next.js, Bun).
+- `Stride KRA` — Headless AI-driven tax compliance engines.
+- `Stride Forex` — Low-latency Algorithmic MT5 trading bridges (Z-Score models).
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 The Computer Scientist</h3>
-      <p>I am a <strong>Computer Scientist, Full Stack Developer & AI Engineer</strong> specializing in Artificial Intelligence, Agentic Workflows, and high-frequency business systems.</p>
-      <p>My foundation is deeply rooted in core Computer Science principles. From optimizing Big-O time complexity for trading algorithms to designing distributed databases for enterprise SaaS, everything I build is mathematically scaled.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ Currently Architecting</h3>
-      <p><strong>Sajim Inc / Stride</strong> — Africa's AI Business OS.</p>
-      <ul>
-        <li>🤖 <strong>AI & LLMs:</strong> Autonomous AI agents & RAG pipelines.</li>
-        <li>🇰🇪 <strong>Stride KRA:</strong> Headless tax compliance engines.</li>
-        <li>💱 <strong>Stride Forex:</strong> Algorithmic MT5 trading bridges.</li>
-        <li>🏢 <strong>Visyx ERP:</strong> Full-stack optical SaaS management.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-> [!IMPORTANT]
-> ### 🎯 The Paradigm Shift (2026 & Beyond)
-> **I have officially stopped manual coding.** I no longer write software line-by-line. Instead, I am fully invested in building with AI. Every system, product, and architecture is 100% my intellectual property—I act as the pure Architect. I design the schemas, the business logic, and the scale, while I orchestrate teams of autonomous AI agents to execute the raw code at high frequency.
-
-<br>
-
-<h3 align="center">🧰 The Architect's Tech Stack</h3>
+<h3 align="center"><code>/// STACK_TRACE</code></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,nextjs,react,tailwind,bun,nodejs,postgres,supabase,aws,git,github,vercel,docker,linux&perline=10" />
   </a>
 </p>
-<p align="center"><i>Agentic Systems • Generative AI • Cloud Computing • The 5W1H Standard • Quantitative Engineering</i></p>
 
 ---
 
-<h3 align="center">📊 Real-Time Telemetry</h3>
+<div align="center">
+  <a href="THE_JOURNEY.md">
+    <img src="https://img.shields.io/badge/READ_THE_EVOLUTION_OF_THE_ARCHITECT-E50914?style=for-the-badge&labelColor=1a1a1a&color=E50914" alt="Read The Journey" />
+  </a>
+</div>
+
+---
+
+<h3 align="center"><code>/// TELEMETRY</code></h3>
 
 <div align="center">
   <picture>
