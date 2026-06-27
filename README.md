@@ -1,3 +1,5 @@
+<!-- SEO Tags: Next.js Developer Kenya, AI Engineer Nairobi, Full Stack Developer, TypeScript, Agentic Workflows, AI Architect, Algorithmic Trading Developer, Quantitative Developer, CTO, Technical Co-Founder -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=250&section=header&text=Jimmy%20Mathu&fontSize=70&fontAlignY=35&desc=The%20Architect&descAlignY=55&descAlign=62&fontColor=ffffff" />
 </div>
@@ -36,6 +38,17 @@ Currently, I am architecting **Sajim Inc / Stride** — Africa's AI Business Ope
 
 ---
 
+### 🎯 The Paradigm Shift (2026 & Beyond)
+**I have officially stopped manual coding.** I no longer write software line-by-line. Instead, I am fully invested in building with AI. 
+Every system, product, and architecture is 100% my intellectual property—I act as the pure Architect. I design the schemas, the business logic, and the scale, while I orchestrate teams of autonomous AI agents to execute the raw code at high frequency.
+
+**What to expect this year:**
+- The full public deployment of the **Stride OS** ecosystem.
+- Massive scaling in automated KRA tax compliance systems.
+- Highly profitable, self-correcting algorithmic trading bridges.
+
+---
+
 ### 🧰 My Developer Toolbox
 
 <p align="center">
@@ -46,7 +59,7 @@ Currently, I am architecting **Sajim Inc / Stride** — Africa's AI Business Ope
   </a>
 </p>
 
-**Core Competencies:** Agentic Systems | Generative AI | Cloud Computing | The 5W1H Standard
+**Core Competencies:** Agentic Systems | Generative AI | Cloud Computing | The 5W1H Standard | Full Stack Architecture | Quantitative Engineering
 
 ---
 
