@@ -11,6 +11,9 @@
 </h3>
 
 <p align="center">
+  <a href="mailto:jimmymathu28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://twitter.com/middlechild0">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
