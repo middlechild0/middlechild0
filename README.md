@@ -50,27 +50,29 @@ Currently, I am architecting **Sajim Inc / Stride** — Africa's AI Business Ope
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=middlechild0&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ### 📈 GitHub Statistics & Live Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=middlechild0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=E50914&title_color=E50914" alt="Jimmy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=middlechild0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=E50914" alt="Jimmy's Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=middlechild0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=E50914&title_color=E50914">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=middlechild0&show_icons=true&hide_border=true">
+    <img alt="Jimmy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=middlechild0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=E50914&title_color=E50914">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=middlechild0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=E50914">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=middlechild0&layout=compact&hide_border=true">
+    <img alt="Jimmy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=middlechild0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=E50914">
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=middlechild0&theme=radical&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=FFFFFF" alt="Jimmy's GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=middlechild0&theme=radical&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=middlechild0&hide_border=true">
+    <img alt="Jimmy's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=middlechild0&theme=radical&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=FFFFFF">
+  </picture>
 </div>
 
 ---
