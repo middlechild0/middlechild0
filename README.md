@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=250&section=header&text=Jimmy%20Mathu&fontSize=70&fontAlignY=35&desc=The%20Architect%20|%20AI%20%26%20Software%20Engineer&descAlignY=55&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=250&section=header&text=Jimmy%20Mathu&fontSize=70&fontAlignY=35&desc=The%20Architect&descAlignY=55&descAlign=62&fontColor=ffffff" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Building+Africa's+AI+Business+OS;Architecting+Agentic+Workflows;Clean.+Structured.+Frictionless." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E50914&center=true&vCenter=true&width=600&lines=Building+Africas+AI+Business+OS;Architecting+Agentic+Workflows;Clean+Structured+Frictionless" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -50,7 +50,7 @@ Currently, I am architecting **Sajim Inc / Stride** — Africa's AI Business Ope
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=middlechild0&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=middlechild0&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
