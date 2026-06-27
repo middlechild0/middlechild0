@@ -28,8 +28,9 @@
 ```
 
 ### `/// THE PARADIGM SHIFT`
-**Manual coding is deprecated.** I operate strictly as the Architect. 
-I design the database schemas, optimize the Big-O time complexity, build the RAG pipelines, and architect the quantitative trading logic. I then deploy autonomous AI subagents to execute the raw codebase at scale. All IP, business logic, and system architecture are 100% mine.
+**Ignore the hype. AI is not a replacement.** It is simply a compiler for high-level logic, no different than TypeScript, Linux, or Docker. A tool is only as powerful as the mind wielding it.
+
+**Manual coding is deprecated.** I operate strictly as the Architect. I dictate the database schemas, optimize the Big-O time complexity, build the RAG pipelines, and architect the quantitative trading models. I then deploy autonomous AI subagents to execute the raw codebase at scale. I don't rely on AI to think for me; I use it to execute my vision faster. All IP, business logic, and system architecture are 100% mine.
 
 **Currently Deploying:**
 - `Stride OS` — Unified Enterprise OS (TypeScript, Next.js, Bun).
@@ -41,9 +42,10 @@ I design the database schemas, optimize the Big-O time complexity, build the RAG
 <h3 align="center"><code>/// STACK_TRACE</code></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,nextjs,react,tailwind,bun,nodejs,postgres,supabase,aws,git,github,vercel,docker,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,nextjs,react,tailwind,bun,nodejs,postgres,supabase,aws,kubernetes,docker,linux,vim,git,github,vercel&perline=11" />
   </a>
 </p>
+<p align="center"><i>LLMs • Autonomous Agents • OpenAI • Claude • RAG • Algorithmic Logic</i></p>
 
 ---
 
